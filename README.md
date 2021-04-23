@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CRYPT786 my actual name is Noah
+- 👋 Hi, I’m @CRYPT786 my actual name is not known cause I am retarded
 - 👀 I’m interested in python c# and c++ and a bit of JS
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on projects in python c# and c++
